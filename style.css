@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(76, 202, 89);
-    color: white;
+    background-color: rgb(194, 76, 202);
+    color: rgb(66, 206, 76);
     font-family: 'Georgia', serif;
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ header h1 {
 header p {
     font-size: 24px;
     margin-top: 10px;
-    color: #62b13d;
+    color: #b13db1;
 }
 
 .gods {
@@ -55,3 +55,18 @@ footer {
     border-top: 2px solid white;
     color: #d62dac;
 }
+ {
+ul 
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  aling-items: center; 
+  padding: 30px;
+ }
+
+ a {
+    color: purple;
+    text-decoration: none;
+ }
+ image {
+ }
