@@ -32,5 +32,5 @@
     <footer>
         <p>&copy; 2025 Mitologia Grega. Todos os direitos reservados.</p>
     </footer>
-</body>
+</body> 
 </html>
