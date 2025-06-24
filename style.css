@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 2px solid white;
+}
+
+header h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+header p {
+    font-size: 24px;
+    margin-top: 10px;
+    color: #ddd;
+}
+
+.gods {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+}
+
+.god {
+    max-width: 400px;
+    text-align: justify;
+}
+
+.towers {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+    gap: 60px;
+}
+
+.tower {
+    width: 150px;
+    height: auto;
+    filter: brightness(100%);
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid white;
+    color: #aaa;
+}
